@@ -1,0 +1,6 @@
+crime.csv
+Boston_Police_Stations_(BPD_Only).csv
+notebooks/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
